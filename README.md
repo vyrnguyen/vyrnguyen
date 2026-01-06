@@ -1,13 +1,13 @@
 <h1 align=center>
-  Hello! I'm Vy. 👋🏻
-  <p><img src="https://komarev.com/ghpvc/?username=vyrnguyen&label=Profile%20views&color=0e75b6&style=flat" alt="vyrnguyen: profile views" /></p>
+  <p>Hello! I'm Vy. 👋🏻 </p>
+  <img src="https://komarev.com/ghpvc/?username=vyrnguyen&label=Profile%20views&color=0e75b6&style=flat" alt="vyrnguyen: profile views" />
 </h1>
 <p>Aspiring software (systems) engineer, currently based in Los Angeles, CA.</p>
 
-I like to contribute to open source, write low-level code, and develop accessible products!
+<p>I like to contribute to open source, write low-level code, and develop accessible products!</p>
 
-- 🌱 Learn more about me <a href=vyrnguyen.github.io target=_blank>here</a>!
-- 🔭 Reach out at **vyrnguyen.dev@gmail.com**
+- 🌱 Learn more <a href=https://vyrnguyen.github.io/ target=_blank>about me</a>
+- ✉️ Reach out at **vyrnguyen.dev@gmail.com**
 
 <h3>Currently working on...</h3>
 <div>
