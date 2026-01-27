@@ -2,9 +2,9 @@
   <p>Hello! I'm Vy. 👋🏻 </p>
   <img src="https://komarev.com/ghpvc/?username=vyrnguyen&label=Profile%20views&color=0e75b6&style=flat" alt="vyrnguyen: profile views" />
 </h1>
-<p>Aspiring software (systems) engineer, currently based in Los Angeles, CA.</p>
+<p>Aspiring software engineer/full-stack developer, currently based in Los Angeles, CA.</p>
 
-<p>I like to contribute to open source, write low-level code, and develop accessible products!</p>
+<p>I like to develop accessible products, write low-level code, and make interactive games! Hoping to get more involved with open source. </p>
 
 - 🌱 Learn more <a href=https://vyrnguyen.github.io/ target=_blank>about me</a>
 - ✉️ Reach out at **vyrnguyen.dev@gmail.com**
